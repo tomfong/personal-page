@@ -11,6 +11,13 @@
         "source": "**",
         "destination": "/index.html"
       }
+    ],
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "https://tomfong-personal-page.web.app",
+        "type": 301
+      }
     ]
   }
 }
